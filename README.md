@@ -1,19 +1,19 @@
 # 2048
-Данная программа была создана для фана и как проект по Основам Программирования  
-#Лицензия
+This program was created for fun and as a project Programming Basics  
+#License
 The MIT License   
-#Язык программирования  
+#Programming language  
 Pythone  
-#Версия  
+#Version  
 Pythone 3.5.1 
-#Использование  
-1) Скачайте [pythone][]     
-2) Скачайте [pygame][]    
-3) Установите интерпретатор python и затем установите в директорию интерпретатора pygame.    
-4) Скачайте файл с игрой    
-5) Запустите файл (**2048.py**) через интерпреатор    
-6) Наслаждайтесь:3    
-**P.S.:**Пунктами 1-3 можно пренебречь пользуясь  онлайн сервисами. Например [C9][]  
+#Using  
+1) It is necessary to download [pythone][]     
+2) It is necessary to download [pygame][]    
+3) Install the python interpreter, and then set the interpreter directory pygame.    
+4) Download the game file    
+5) Run the file (**2048.py**)   
+6) Enjoy:3    
+**P.S.:**Paragraphs 1-3 can be ignored using the online services. for example [C9][]  
 [pythone]:http://www.python.org/download/
 [pygame]:http://www.pygame.org/download.shtml
 [C9]:https://c9.io/
